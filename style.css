@@ -1,0 +1,95 @@
+
+.genel { 
+
+    height: 650px;
+    width: 90%;
+    background-color: rgba(2, 2, 51, 0.959);
+    border: solid darkblue;
+    margin: 2%; 
+    border-radius: 3%;}
+
+
+.gbutton {
+
+    background-color: rgb(3, 110, 110);
+    height: 10%;
+    width: 40%;
+    margin-left: 28%;
+    border-radius: 5%;
+    font-size: 20px;  
+    font-weight: 700;
+    font-variant: small-caps;
+}
+
+.hbutton { 
+
+    background-color: rgba(245, 241, 45, 0.808);
+    height: 60px;
+    width: 15%;
+    margin-left: 40%;
+    margin-top: 2%;
+    border-radius: 5%;
+    font-size: 20px;
+    font-weight: 700;
+}    
+
+.bbutton { 
+    background-color: rgb(32, 77, 26);
+    height: 60px;
+    width: 15%;
+    margin-left: 70%;
+    margin-top: 8%;
+    border-radius: 5%;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.nordbutton { 
+    background-color: rgba(45, 191, 248, 0.479);
+    height: 60px;
+    width: 15%;
+    border-radius: 5%;
+    margin-top: 0%;
+    margin-left: 10%;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+.hesbutton {
+    
+    background-color: rgb(136, 134, 12);
+    height: 60px;
+    width: 15%;
+    border-radius: 5%;
+    margin-top: 2%;
+    margin-inline-start: 20%; 
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.babutton {
+    background-color: rgba(243, 11, 11, 0.479);
+    height: 60px;
+    width: 15%;
+    margin-left: 63%;
+    margin-top: 2%;
+    border-radius: 5%;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+
+.badbutton { 
+
+    background-color: rgb(109, 98, 146);
+    height: 60px;
+    width: 15%;
+    border-radius: 5%;
+    margin-top: 0%;
+    margin-left: 15%; 
+    font-size: 18px;
+    font-weight: 700;
+}
+
